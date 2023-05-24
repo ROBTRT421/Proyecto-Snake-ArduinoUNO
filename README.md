@@ -34,7 +34,8 @@ Joystick Y    | A3
 Potentiometer | A5
 
 ![wiring diagram]( https://github.com/ROBTRT421/Proyecto-Snake/blob/main/Plano%20Snake.png "wiring diagram")
-The exact pin order for the matrix or joystick may be different from the one shown on the image, so please be intelligent and use the table above.
+
+El orden exacto de los pines para la matriz o el joystick puede ser diferente del que se muestra en la imagen, así que sea inteligente y use la tabla anterior.
 
 
 
