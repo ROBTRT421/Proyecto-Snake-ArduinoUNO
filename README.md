@@ -2,16 +2,16 @@
 
 
 # Tutorial
-1. Get the parts, install [Arduino IDE](https://www.arduino.cc/en/Main/Software), install drivers for Arduino (if you have Arduino clone AND you are using Windows)
-2. Copy-paste [the code](https://github.com/ondt/arduino-snake/blob/master/Snake.ino) into Arduino IDE
-3. Install the `LedControl` library using Arduino IDE [Library Manager](https://www.arduino.cc/en/Guide/Libraries#toc2)
-4. Wire everything up _(see the Wiring Diagram)_
-5. Connect your Arduino and select it in `Tools > Board` and `Tools > Port`
-6. Upload
-7. _(optional)_ Tweak the variables, explore the code :wink:
+1. Obtenga las piezas, instale [Arduino IDE] (https://www.arduino.cc/en/Main/Software), instale los controladores para Arduino (si tiene un clon de Arduino Y está utilizando Windows)
+2. Copie y pegue [el código](https://github.com/ROBTRT421/Proyecto-Snake/blob/main/SNAKE%20A5.ino.ino) en la IDE de Arduino
+3. Instalar la librería 'LedControl' usando Arduino IDE [Library Manager](https://www.arduino.cc/en/Guide/Libraries#toc2)
+4. Conecte todo _(vea el diagrama de cableado)_
+5. Conecte su Arduino y selecciónelo en 'Tools > Board' y 'Tools > Port'
+6. Carguielo a la placa
+7. _(opcional)_ Modifica las variables, explora el código :guiño:
 
 
-# Parts
+# Partes
 Part Name            |      Amazon link       | Note
 :------------------- | ---------------------- | :------------------------------------------------
 Arduino UNO  (clone) | https://www.amazon.com.mx/Arduino-Org-A000066-R3-microcontrolador
@@ -33,7 +33,7 @@ Joystick X    | A2
 Joystick Y    | A3
 Potentiometer | A5
 
-![wiring diagram](https://raw.githubusercontent.com/ondt/arduino-snake/master/images/snake_joystick.png "wiring diagram")
+![wiring diagram]( https://github.com/ROBTRT421/Proyecto-Snake/blob/main/Plano%20Snake.png "wiring diagram")
 The exact pin order for the matrix or joystick may be different from the one shown on the image, so please be intelligent and use the table above.
 
 
