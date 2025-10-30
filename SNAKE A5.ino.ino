@@ -1,6 +1,3 @@
-/* 
-Derechos de autor (c) 2018 Ondrej Telka. (https://ondrej.xyz/)
- * 
  * Este programa es software libre: puedes redistribuirlo y/o modificarlo  
  * bajo los términos de la Licencia Pública General GNU publicada por  
  * La Free Software Foundation, versión 3.
